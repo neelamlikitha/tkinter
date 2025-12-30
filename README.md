@@ -98,6 +98,8 @@ Improve UI design with themes
 
 Add edit/delete functionality in the table
 
+🎬 Demo Video: [Click here to watch](https://drive.google.com/file/d/1fcYRce-xjJuYAQYAsgQdFRV68Ioeq6Dq/view?usp=sharing)
+
 👤 Author
 
 Likhitha Neelam
